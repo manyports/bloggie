@@ -9,9 +9,9 @@ export default function Navbar() {
         <body>
         <nav className="bg-white">
             <div className="flex justify-center">
-                <div className="relative flex items-center justify-between h-16">
+                <div className="flex items-center justify-between h-16">
                     <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
-                        <a href="/"><div className="flex items-center">
+                        <a href="/" className="flex items-center"><div>
                             <p className="text-[#008fcf] font-extrabold">bloggie - your only blogs source.</p>
                         </div></a>
                         <div className="hidden sm:block sm:ml-6">
