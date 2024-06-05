@@ -2,6 +2,9 @@
 
 Bloggie is a modern, lightweight blogging platform designed for simplicity and ease of use. Built with a powerful tech stack, Bloggie offers a seamless and efficient experience for both developers and end-users.
 
+# Direct Access on the Web.
+https://bloggieweb.vercel.app/ <-
+
 # Screenshots 
 ![](https://media.discordapp.net/attachments/1247900489526546434/1247900506651889695/image.png?ex=6661b569&is=666063e9&hm=da1536a06b0a941d68bb89851979da444ca8834b54582683b5903975d14091bd&=&format=webp&quality=lossless&width=1200&height=570) 
 ![](https://media.discordapp.net/attachments/1247900489526546434/1247900567058255892/image.png?ex=6661b578&is=666063f8&hm=c393071bcdcf1124c7d5f7e4b4e6c0bb5aeac9c055c47850635c5d99706b7f42&=&format=webp&quality=lossless&width=1200&height=570)
