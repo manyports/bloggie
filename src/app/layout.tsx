@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "bloggie - your only blogs source.",
-  description: "bloggie is the website where you may read many interesting blogs.",
+  description: "Bloggie is your go-to platform for sharing stories, ideas, and knowledge. Whether you're a seasoned writer or just starting out, Bloggie provides you with the tools to view content with the world.",
 };
 
 export default function RootLayout({
